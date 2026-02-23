@@ -26,8 +26,8 @@ And the response was:
         "8. Doctor Sleep (2019) - USA - 152 minutes",  
         "9. The Babadook (2014) - Australia - 93 minutes",  
         "10. It (2017) - USA - 135 minutes"  
-    ]  
-}  
+    ]
+}
 
 (Just for the record, I, the developer, find Midsommar to be a terrible choice)
 
@@ -52,7 +52,7 @@ And got:
         "6. Night in Paradise (2020) - South Korea - 130 minutes",  
         "7. The Outlaws (2017) - South Korea - 141 minutes",  
         "8. Oldboy (2003) - South Korea - 120 minutes"  
-    ]  
-}  
+    ]
+}
 
 Feel free to make usage of this code as a basis. Have fun.
