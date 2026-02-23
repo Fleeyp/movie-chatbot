@@ -29,6 +29,8 @@ And the response was:
     ]
 }
 
+(Just for the record, I, the developer, find Midsommar to be a terrible choice)
+
 I also tested:
 
 {
